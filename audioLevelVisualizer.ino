@@ -13,7 +13,6 @@ CRGB leds[NUM_STRIPS][NUM_LEDS];
 #define BRIGHTNES_PIN A1
 
 #define BUTTON_PIN 2
-int vv = 1000;
 
 long currentMillis;
 
